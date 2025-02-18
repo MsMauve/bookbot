@@ -25,5 +25,4 @@ def character_counter(book):
     return letter_count
 
 main()
-character_counter()
 
